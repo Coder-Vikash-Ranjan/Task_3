@@ -1,0 +1,53 @@
+body {
+  background-color: coral;
+  color: #fff;
+}
+
+.head {
+  color: darkblue;
+}
+
+#bglime {
+    background-color: greenyellow;
+}
+
+#highlight {
+    color: red;
+}
+
+p {
+    color: #fff;
+}
+
+#para {
+    color: green;
+}
+
+#para-highlight {
+    font-size: 30px;
+    color: black;
+}
+
+#list-container {
+    color: black;
+}
+
+ul li {
+    color: #fff;
+}
+
+ul li a {
+    background-color: yellow;
+}
+
+ul li label a {
+    background-color: blue;
+}
+
+ol li div {
+    color: blue;
+}
+
+ol li label {
+    color: red;
+}
